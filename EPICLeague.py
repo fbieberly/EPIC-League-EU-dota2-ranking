@@ -84,6 +84,11 @@ compute_series(team_dict, [liquid, alliance, [1, 1]])
 compute_series(team_dict, [vp, nigma, [1, 1]])
 
 ### DAY 9
+compute_series(team_dict, [error, alliance, [1, 0, 1]])
+compute_series(team_dict, [vikingg, vp, [0, 1, 1]])
+compute_series(team_dict, [og, secret, [1, 1]])
+
+
 ### DAY 10
 ### DAY 11
 ### DAY 12
