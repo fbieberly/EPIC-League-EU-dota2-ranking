@@ -90,7 +90,16 @@ compute_series(team_dict, [og, secret, [1, 1]])
 
 
 ### DAY 10
+compute_series(team_dict, [liquid, vp, [1, 0, 1]])
+compute_series(team_dict, [vikingg, error, [1, 0, 1]])
+compute_series(team_dict, [nigma, navi, [1, 0, 1]])
+
 ### DAY 11
+compute_series(team_dict, [alliance, mudgolems, [1, 0, 1]])
+compute_series(team_dict, [liquid, og, [0, 1, 1]])
+compute_series(team_dict, [secret, nigma, [1, 1]])
+
+
 ### DAY 12
 ### DAY 13
 ### DAY 14
@@ -104,4 +113,4 @@ team_scores = sorted(team_scores, key=lambda x: x[1], reverse=True)
 
 print("EPIC League glicko-2 ratings:")
 for idx, team in enumerate(team_scores):
-    print("\t{:>2}. {:<14} {:6.0f}".format(idx+1, team[0], team[1]))
+    print("    {:>2}. {:<14} {:6.0f}".format(idx+1, team[0], team[1]))
