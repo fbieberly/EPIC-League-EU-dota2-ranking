@@ -7,31 +7,31 @@ I was interested in knowing what the Glicko-2 ranking of the 10 teams competing 
 [liquipedia]: https://liquipedia.net/dota2/EPIC_League/2/Division_1
 [Glicko-2]: https://en.wikipedia.org/wiki/Glicko_rating_system
 
-# Results (after 11 days of competition)
+# Results (after 12 days of competition)
 ```
 EPIC League glicko-2 ratings:
      1. Vikin.gg         1531
-     2. VP               1520
-     3. Secret           1517
-     4. Nigma            1502
-     5. Liquid           1499
-     6. OG               1499
-     7. NaVi             1495
-     8. Alliance         1479
-     9. Mudgolems        1477
-    10. Just Error       1472
+     2. VP               1526
+     3. Secret           1523
+     4. OG               1513
+     5. Nigma            1502
+     6. Liquid           1499
+     7. NaVi             1489
+     8. Alliance         1473
+     9. Just Error       1472
+    10. Mudgolems        1463
 
 Liquipedia's win/loss ranking
-     1.  Vikin.gg        6-1 
-     2.  Virtus.pro      4-2 
-     3.  Team Secret     4-2
-     4.  Team Nigma      4-3
-     5.  Natus Vincere   3-2
-     6.  OG              3-4
-     7.  Team Liquid     3-4
-     8.  mudgolems       2-4
-     9.  Alliance        2-5
-    10. Just Error       2-6
+     1.  Vikin.gg         6-1
+     2.  Virtus.pro       5-2
+     3.  Team Secret      5-2
+     4.  Team Nigma       4-3
+     5.  OG               4-4
+     6.  Natus Vincere    3-3
+     7.  Team Liquid      3-4
+     8.  mudgolems        2-5
+     9.  Just Error       2-6
+    10.  Alliance         2-6
 ```
 
 # Comments
