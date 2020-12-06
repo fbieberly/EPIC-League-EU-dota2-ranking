@@ -105,9 +105,19 @@ compute_series(team_dict, [vp, navi, [1, 0, 1]])
 compute_series(team_dict, [secret, alliance, [0, 1, 1]])
 
 ### DAY 13
-### DAY 14
-### DAY 15
+compute_series(team_dict, [navi, mudgolems, [1, 1]])
+compute_series(team_dict, [nigma, vikingg, [1, 0, 1]])
+compute_series(team_dict, [vp, secret, [1, 1]])
 
+# ### DAY 14
+compute_series(team_dict, [navi, vikingg, [1, 0, 1]])
+compute_series(team_dict, [liquid, mudgolems, [1, 1]])
+compute_series(team_dict, [vp, alliance, [1, 0, 1]])
+
+### DAY 15
+compute_series(team_dict, [og, error, [1, 1]])
+compute_series(team_dict, [navi, secret, [1, 1]])
+compute_series(team_dict, [liquid, nigma, [1, 0, 1]])
 
 team_scores = []
 for key in team_dict:
